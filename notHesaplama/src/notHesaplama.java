@@ -38,7 +38,7 @@ public class NotHesaplama {
             payda += 2;
         }
         pay /= payda;
-        System.out.println(pay > 55 ? "Tebrikler Sınıfı Geçiniz." : "Sınıfı Geçemediniz");
+        System.out.println(pay > 54 ? "Tebrikler Sınıfı Geçiniz." : "Sınıfı Geçemediniz");
         System.out.print("Ortalamanız: " + pay);
     }
 }
