@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /*İşleri Biraz geliştirmek adına
 Ders kredilerini de işin içine kattım */
-public class notHesaplama {
+public class NotHesaplama {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         float mat, tr, phy, che, mus, pay = 0, payda = 0;
